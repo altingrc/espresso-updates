@@ -16,8 +16,8 @@ themselves when it names a version newer than their own.
 
 ```json
 {
-  "version": "1.17.0",
-  "url": "https://.../Espresso-v1.17.0.dmg",
+  "version": "1.17.1",
+  "url": "https://.../Espresso-v1.17.1.dmg",
   "sha256": "..."
 }
 ```
